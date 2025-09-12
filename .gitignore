@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Scraped data outputs
+account_scraping/data/
+account_scraping/comments/
+websearch_scraping/data/
+websearch_scraping/websearch_comments/
+
+# Python scraper outputs
+data/
+outputs/
+*.csv
+*.json
+
+# TikTok cookies/session
+cookies.json
+
+# Logs
+logs/
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+

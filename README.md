@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # TikTok Scraper Toolkit
 
 This repo contains several Puppeteer- and Python-based scrapers for collecting TikTok video metadata and comments.  

@@ -88,7 +88,7 @@ node account_scraping/comments_profile.js @lululemon --max 5 --dir lululemon_run
 First, prepare a CSV:
 
 ```csv
-ids
+video_id
 7114393903368785194
 7191768531430624558
 6672674748264090886
